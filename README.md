@@ -17,7 +17,9 @@ Hardware & Software:
 - Language: C/C++ (Arduino)
 - Tools: AutoCAD, Arduino IDE
 
-Files:   SYSC4805_L3_Project_Proposal_Group5.pdf   – Project proposal
+Files:
+
+         SYSC4805_L3_Project_Proposal_Group5.pdf   – Project proposal
   
          SYSC4805_L3_ProgressReport_Group5-2.pdf   – Progress report
   
