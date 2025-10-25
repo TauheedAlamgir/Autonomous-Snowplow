@@ -17,21 +17,21 @@ Hardware & Software:
 - Language: C/C++ (Arduino)
 - Tools: AutoCAD, Arduino IDE
 
-Files:
-  SYSC4805_L3_Project_Proposal_Group5.pdf   – Project proposal
+Files:   SYSC4805_L3_Project_Proposal_Group5.pdf   – Project proposal
   
-  SYSC4805_L3_ProgressReport_Group5-2.pdf   – Progress report
+         SYSC4805_L3_ProgressReport_Group5-2.pdf   – Progress report
   
-  SYSC4805_L3_FinalReport_Group5.pdf        – Final report
+         SYSC4805_L3_FinalReport_Group5.pdf        – Final report
   
-  PlowDesign1.jpg / PlowDesign2.jpg / PlowDesign3.jpg – CAD plow designs
+         PlowDesign1.jpg / PlowDesign2.jpg / PlowDesign3.jpg – CAD plow designs
   
-  PlowDimensions.pdf                         – Plow dimensions
+         PlowDimensions.pdf                         – Plow dimensions
   
-  VMA330UnitTest.ino                         – Obstacle detection test
+         VMA330UnitTest.ino                         – Obstacle detection test
   
-  line_follower.cpp                          – Line-following algorithm
+         line_follower.cpp                          – Line-following algorithm
   
+
 
 Team Members:
   Ahmed Ali, Brendan Kennedy, Duncan MacLeod, Tauheed Alamgir
